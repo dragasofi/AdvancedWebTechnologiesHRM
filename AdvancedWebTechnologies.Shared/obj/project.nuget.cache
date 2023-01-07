@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLck1gZS60MzYEwr/QZUprHJ754elGneLnc8QhUzzYxEk59Sg/WpOlH53EONmgzZVrh2pHi7UnS5huB5xyE2EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\AdvancedWebTechnologiesHRM.App\\AdvancedWebTechnologies.Shared\\AdvancedWebTechnologiesHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\bin\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.deps.json
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\bin\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.dll
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\bin\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.pdb
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\obj\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\obj\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\obj\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\obj\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.AssemblyInfo.cs
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\obj\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\obj\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.dll
+C:\Users\user\source\repos\AdvancedWebTechnologiesHRM.App\AdvancedWebTechnologies.Shared\obj\Debug\netstandard2.1\AdvancedWebTechnologiesHRM.Shared.pdb
